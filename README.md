@@ -12,7 +12,7 @@ $$
 x_{ij} = 
 \begin{cases} 
 1, & \text{if arc } (i, j) \text{ is on the shortest route} \\
-0, & \text{otherwise}
+0, & \text{otherwise} 
 \end{cases}
 $$
 
