@@ -8,6 +8,7 @@ We define a network as a set of $n$ nodes. To find the shortest route between a 
 
 ### Decision Variables
 Define $x_{ij}$ as the amount of flow in arc $(i, j)$:
+
 $$
 x_{ij} = 
 \begin{cases} 
